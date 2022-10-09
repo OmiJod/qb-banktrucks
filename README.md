@@ -5,7 +5,7 @@
 
 # Preview - https://youtu.be/W6eoyWROhbk
 
-Now This Truck is lootable by Players <3
+# Now This Truck is lootable by Players <3
 
 
 # Buy Here - https://moon-scriptsstore.tebex.io/package/5328828  
